@@ -11,6 +11,7 @@ import {WeatherListComponent} from './weather/weather-list.component';
   `,
   directives: [WeatherListComponent]
 })
+
 export class AppComponent {
 
 }
